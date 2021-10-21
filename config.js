@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = https://lime-osrs-tracker.herokuapp.com/
+const CONFIG_BACKEND_URL = https://lime-osrs-tracker.herokuapp.com/:5933
